@@ -1,7 +1,6 @@
 # AWS Cloud Practitioner (CLF-C02) – Study Notes & Project Portfolio
 
-This repository contains my personal study notes and learning reflections while preparing for the  
-🎓 **AWS Certified Cloud Practitioner (CLF-C02)** exam – 2025 edition.
+This repository contains my personal study notes and learning reflections while preparing for the 🎓 **AWS Certified Cloud Practitioner (CLF-C02)** exam – 2025 edition.
 
 I am following the course:  
 📘 [Ultimate AWS Certified Cloud Practitioner CLF-C02 – 2025](https://www.udemy.com/course/aws-certified-cloud-practitioner/) by Stéphane Maarek.
